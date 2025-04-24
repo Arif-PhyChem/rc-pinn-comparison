@@ -1,5 +1,0 @@
-normal_cnn_lstm_trained_models_no_constrain/cnn_lstm_model-284-tloss-1.544e-05-vloss-2.320e-05.keras  SB_sr-pinn-284-tloss-1.544e-05-vloss-2.320e-05.keras
-
-pinn_cnn_lstm_trained_models_full_constraints/cnn_lstm_model-990-tloss-1.611e-05-vloss-2.381e-05.keras 
-coeff_cnn_lstm_trained_models_full_constraints/cnn_lstm_model-359-tloss-1.382e-05-vloss-3.464e-05.keras
-coeff_cnn_lstm_trained_models_no_constraint/cnn_lstm_model-464-tloss-1.152e-05-vloss-3.191e-05.keras
