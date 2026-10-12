@@ -1,5 +1,7 @@
 # rc-pinn-comparison
-Code and data for our recent paper **From short-sighted to far-sighted: A comparative study of recursive machine learning approaches for open quantum systems** (https://arxiv.org/abs/2504.02218)
+Code and data for our recent paper **From short-sighted to far-sighted: A comparative study of recursive machine learning approaches for open quantum systems**  Communications in Computational Chemistry, 7(3), 209-216. https://doi.org/10.4208/cicc.2025.87.01 
+
+Preprint:  https://doi.org/10.4208/cicc.2025.87.01 (https://arxiv.org/abs/2504.02218)
 
 1. **fmo_data folder:** Training and test data for FMO complex. We are just providing the file names. You can download QD3SET-1 database (https://doi.org/10.3389/fphy.2023.1223973) to access the real data 
 
